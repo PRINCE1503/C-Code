@@ -1,0 +1,1 @@
+Customer's Name : {{Name}} , Customer's City : {{City}} , Bill Number : {{Bill_Number}} 
